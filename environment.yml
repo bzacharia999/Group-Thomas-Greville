@@ -1,0 +1,13 @@
+name: Group-thomas-greville
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+
+  # Core scientific stack
+  - numpy
+  - pandas
+  - scikit-learn
+
+  # Visualizations
+  - matplotlib
