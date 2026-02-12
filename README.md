@@ -5,7 +5,7 @@
 
 You can create the environment by just running:
 
-	make env
+	conda env create -f environment.yml
 
 Then activate the environment by running:
 
